@@ -1,0 +1,73 @@
+
+
+body {
+    background-color: #1c2233;
+}
+
+.heading {
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    line-height: 15px;
+}
+
+.h1table {
+    color: #4fcbff;
+}
+
+h1 {
+    color: yellow;
+}
+
+p {
+    color: red;
+}
+
+.amirabbasi {
+    font-weight: bolder;
+}
+
+table {
+    margin: auto;
+    margin-top: 100px;
+    width: 60%;
+    text-align: left;
+    border-collapse: collapse;
+    font-family: sans-serif;
+}
+
+th {
+    padding-bottom: 20px;
+    padding-left: 10px;
+    color: #6cb4ff;
+}
+
+td {
+    border: 1px solid black;
+    padding-left: 10px;
+    height: 30px;
+    color: white;
+}
+
+.td1 {
+    background-color: #444444;
+}
+
+.td2 {
+    background-color: rgb(47, 38, 68, 0.1);
+}
+
+.td3 {
+    background-color: #20263F;
+}
+
+.sites {
+    color: rgb(223, 64, 64);
+}
+
+th:hover, td:hover {
+    background-color: yellow;
+    color: black;
+    transform: scale(1.0);
+    transition: 1s;
+}
